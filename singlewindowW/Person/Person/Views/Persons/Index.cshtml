@@ -1,0 +1,92 @@
+﻿@model List<PService.PersonViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="modelDialog" class="modal fade" role="dialog">
+    <div id="dialogContent" class="modal-dialog">
+
+    </div>
+</div>
+
+@using (Html.BeginForm("Index", "Persons", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(el => el[0].FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(el => el[0].LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(el => el[0].Age)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(el => el[0].PhoneNumbers)
+                </th>
+                <th>
+                    <input class="btn btn-primary center-block" type="button" value="Add Person" id="addPerson" onclick="AddPerson()" />
+                </th>
+            </tr>
+            @for (int i = 0; i < Model.Count; i++)
+                {
+                <tr>
+                    <td id="column">
+                        @Html.HiddenFor(element => element[i].Id)
+                        @Html.EditorFor(element => element[i].FirstName)
+                        @Html.ValidationMessageFor(element => element[i].FirstName, "", new { @class = "text-danger" })
+                    </td>
+                    <td id="column">
+                        @Html.EditorFor(element => element[i].LastName)
+                        @Html.ValidationMessageFor(element => element[i].LastName, "", new { @class = "text-danger" })
+                    </td>
+                    <td id="column">
+                        @Html.EditorFor(element => element[i].Age)
+                        @Html.ValidationMessageFor(element => element[i].Age, "", new { @class = "text-danger" })
+                    </td>
+                    <td id="column">
+                        @for (int j = 0; j < Model[i].PhoneNumbers.Count; j++)
+                        {
+                            @Html.HiddenFor(element => element[i].PhoneNumbers[j].Id)
+                            @Html.EditorFor(element => element[i].PhoneNumbers[j].PhoneNumber)
+                            <br />
+                                    @Html.ValidationMessageFor(element => element[i].PhoneNumbers[j].PhoneNumber, "", new { @class = "text-danger" })
+                                    @Html.EditorFor(element => element[i].PhoneNumbers[j].PhoneNumberType)
+                                    <br />
+                                    @Html.ValidationMessageFor(element => element[i].PhoneNumbers[j].PhoneNumberType, "", new { @class = "text-danger" })
+                                    <br />
+                        }
+                    </td>
+                    <td width="95px">
+                        <input class="btn btn-warning center-block" type="button" value="Edit" id="editPerson" onclick="EditPerson(@Model[i].Id)" />
+                    </td>
+                    <td width="95px">
+                        <input class="btn btn-danger center-block" type="button" value="Delete" id="deletePerson" onclick="DeletePerson(@Model[i].Id)" />
+                    </td>
+                </tr>
+            }
+        </table>
+        <div class="form-group">
+            <div class="col-md-offset-6">
+                <input type="submit" value="Save" class="btn btn-success btn-lg" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @*@Scripts.Render("~/Scripts/jquery-2.2.0.min.js")*@
+    @*@Scripts.Render("~/Scripts/jquery-ui-1.11.4.min.js")*@
+    @*@Scripts.Render("~/Scripts/jquery.unobtrusive-ajax.min.js")*@
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/Functions.js")
+}
+
+
