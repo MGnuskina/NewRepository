@@ -1,0 +1,107 @@
+﻿@model PeopleService.PersonViewModel
+
+@{
+    ViewBag.Title = "AddAddress";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddAddress</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>PersonViewModel</h4>
+        <hr />
+        @Html.HiddenFor(model => model.UserID)
+        @Html.HiddenFor(model => model.ID)
+        @Html.HiddenFor(model => model.FirstName)
+        @Html.HiddenFor(model => model.LastName)
+        @Html.HiddenFor(model => model.Age)
+        @for(int i=0; i<Model.phones.Count; i++)
+        {
+            @Html.HiddenFor(model => model.phones[i].ID)
+            @Html.HiddenFor(model => model.phones[i].Number)
+            @Html.HiddenFor(model => model.phones[i].Type)
+        }
+        @for (int i = 0; i < Model.addresses.Count-1; i++)
+        {
+            @Html.HiddenFor(model => model.addresses[i].ID)
+            @Html.HiddenFor(model => model.addresses[i].Lat)
+            @Html.HiddenFor(model => model.addresses[i].Lng)
+            @Html.HiddenFor(model => model.addresses[i].StreetID)
+            @Html.HiddenFor(model => model.addresses[i].BuildingNumber)
+            @Html.HiddenFor(model => model.addresses[i].FlatNumber)
+            @Html.HiddenFor(model => model.addresses[i].street.CityId)
+        }
+        <div class="form-group">
+            @Html.LabelFor(model => model.addresses, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.addresses[Model.addresses.Count - 1].street, htmlAttributes: new { @class = "control-label col-md-2" })
+                <br />
+                @Html.EditorFor(model => model.addresses[Model.addresses.Count - 1].street.Name, new { htmlAttributes = new { @class = "form-control", id = "street" } })
+                @Html.ValidationMessageFor(model => model.addresses[Model.addresses.Count - 1].street.Name, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.addresses[Model.addresses.Count - 1].BuildingNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                <br />
+                @Html.EditorFor(model => model.addresses[Model.addresses.Count - 1].BuildingNumber, new { htmlAttributes = new { @class = "form-control", id = "buildingNumber" } })
+                @Html.ValidationMessageFor(model => model.addresses[Model.addresses.Count - 1].BuildingNumber, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.addresses[Model.addresses.Count - 1].FlatNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                <br />
+                @Html.EditorFor(model => model.addresses[Model.addresses.Count - 1].FlatNumber, new { htmlAttributes = new { @class = "form-control", id = "flatNumber" } })
+                @Html.ValidationMessageFor(model => model.addresses[Model.addresses.Count - 1].FlatNumber, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.addresses[Model.addresses.Count - 1].street.city, htmlAttributes: new { @class = "control-label col-md-2" })
+                <br />
+                @*@Html.EditorFor(model => model.addresses[0].street.city.Name, new { htmlAttributes = new { @class = "form-control", id = "city" } })
+                @Html.ValidationMessageFor(model => model.addresses[0].street.city.Name, "", new { @class = "text-danger" })*@
+                @Html.DropDownListFor(model => model.addresses[Model.addresses.Count - 1].street.city, ViewBag.CitiesID as SelectList, "---Select City---", new { @id="cities"})
+            </div>
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.addresses[Model.addresses.Count - 1].street.city.country, htmlAttributes: new { @class = "control-label col-md-2" })
+                <br />
+                @*@Html.EditorFor(model => model.addresses[0].street.city.country.Name, new { htmlAttributes = new { @class = "form-control", id = "country" } })
+                    @Html.ValidationMessageFor(model => model.addresses[0].street.city.country.Name, "", new { @class = "text-danger" })*@
+                @Html.DropDownListFor(model => model.addresses[Model.addresses.Count - 1].street.city.country, ViewBag.CountriesID as SelectList, "---Select Country---", new { @id="countries"})
+            </div>
+
+        </div>
+        <div class="col-md-10">
+            @Html.LabelFor(model => model.addresses[0].Lat, htmlAttributes: new { @class = "control-label col-md-2" })
+            <br />
+            @Html.EditorFor(model => model.addresses[0].Lat, new { htmlAttributes = new { @class = "form-control", id = "lat" } })
+        </div>
+        <div class="col-md-10">
+            @Html.LabelFor(model => model.addresses[0].Lng, htmlAttributes: new { @class = "control-label col-md-2" })
+            <br />
+            @Html.EditorFor(model => model.addresses[0].Lng, new { htmlAttributes = new { @class = "form-control", id = "lng" } })
+        </div>
+
+        <input id="mapButton" type="button" value="See Map" class="btn btn-success center-block" onclick="showMap(@Model.addresses[0].Lat, @Model.addresses[0].Lng)" />
+        <input id="mapButton" type="button" value="GetFromName" class="btn btn-success center-block" onclick="FindLatLng()" />
+        <div id="googleMap" style="width:500px;height:380px;"></div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/Functions.js")
+    @Scripts.Render("~/Scripts/Map.js")
+    @Scripts.Render("~/Scripts/CountriesCities.js")
+}

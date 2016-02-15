@@ -1,0 +1,121 @@
+﻿@model PeopleService.PersonViewModel
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+
+<h2>Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <div>
+            @Html.DisplayNameFor(model => model.phones):
+        </div>
+        @for (int i = 0; i < Model.phones.Count; i++)
+        {
+            <div>
+                @i)
+            </div>
+            <dt>
+                @Html.DisplayNameFor(model => model.phones[i].Number)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.phones[i].Number)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.phones[i].Type)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.phones[i].Type)
+            </dd>
+        }
+
+        <div>
+            @Html.DisplayNameFor(model => model.addresses):
+        </div>
+
+        @for (int i = 0; i < Model.addresses.Count; i++)
+        {
+            <div>
+                @i)
+            </div>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.addresses[i].BuildingNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.addresses[i].BuildingNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.addresses[i].FlatNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.addresses[i].FlatNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.addresses[i].street)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.addresses[i].street.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.addresses[i].street.city)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.addresses[i].street.city.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.addresses[i].street.city.country)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.addresses[i].street.city.country.Name)
+            </dd>
+            <input id="mapButton" type="button" value="See Map" class="btn btn-success center-block" onclick="showMap(@Model.addresses[i].Lat, @Model.addresses[i].Lng)" />
+        }
+        <div id="googleMap" style="width:500px;height:380px;" onload=""></div>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/Map.js")
+    @Scripts.Render("~/Scripts/Functions.js")
+}

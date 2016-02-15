@@ -1,0 +1,68 @@
+﻿@model PeopleApp.Models.SearchResultcsViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>SearchResultcsViewModel</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div>
+            @Html.Label("Search:")
+            @Html.EditorFor(model => model.SearchParam, new { htmlAttributes = new { @class = "form-control" } })
+            <input type="submit" value="Search" class="btn btn-default" />
+        </div>
+        @if (Model.people != null)
+        {
+            <table class="table table-hover table-responsive">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(el => el.people[0].FirstName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(el => el.people[0].LastName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(el => el.people[0].Age)
+                    </th>
+                </tr>
+                @for (int i = 0; i < Model.people.Count; i++)
+                {
+                    <tr>
+                        <td id="column">
+                            @Html.HiddenFor(element => element.people[i].ID)
+                            @Html.EditorFor(element => element.people[i].FirstName)
+                            @Html.ValidationMessageFor(element => element.people[i].FirstName, "", new { @class = "text-danger" })
+                        </td>
+                        <td id="column">
+                            @Html.EditorFor(element => element.people[i].LastName)
+                            @Html.ValidationMessageFor(element => element.people[i].LastName, "", new { @class = "text-danger" })
+                        </td>
+                        <td id="column">
+                            @Html.EditorFor(element => element.people[i].Age)
+                            @Html.ValidationMessageFor(element => element.people[i].Age, "", new { @class = "text-danger" })
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
