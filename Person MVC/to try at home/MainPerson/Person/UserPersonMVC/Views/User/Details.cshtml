@@ -1,0 +1,136 @@
+﻿@model PService.PersonViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script>
+function initialize() {
+  var mapProp = {
+    center:new google.maps.LatLng(53.508742,-0.120850),
+    zoom:5,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+
+<div id="modelDialog" class="modal fade" role="dialog">
+    <div id="dialogContent" class="modal-dialog">
+
+    </div>
+</div>
+
+
+<h2>Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+        
+        <div>
+            @Html.DisplayNameFor(model => model.PhoneNumbers):
+        </div>
+        @for (int i = 0; i < Model.PhoneNumbers.Count; i++)
+        {
+            <div>
+                @i)
+            </div>
+            <dt>
+                @Html.DisplayNameFor(model => model.PhoneNumbers[i].PhoneNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PhoneNumbers[i].PhoneNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.PhoneNumbers[i].PhoneNumberType)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PhoneNumbers[i].PhoneNumberType)
+            </dd>
+        }
+
+        <div>
+            @Html.DisplayNameFor(model => model.Address):
+        </div>
+        @for (int i = 0; i < Model.Address.Count; i++)
+        {
+            <div>
+                @i)
+            </div>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address[i].BuildingNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address[i].BuildingNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address[i].FlatNumber)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address[i].FlatNumber)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address[i].Street)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address[i].Street.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address[i].Street.City)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address[i].Street.City.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address[i].Street.City.Country)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address[i].Street.City.Country.Name)
+            </dd>
+            <div id="googleMap" style="width:500px;height:380px;"></div>
+        }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "People")
+</p>

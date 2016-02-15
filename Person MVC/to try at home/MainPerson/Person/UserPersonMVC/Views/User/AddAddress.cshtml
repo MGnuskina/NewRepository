@@ -1,0 +1,96 @@
+﻿@model PService.PersonViewModel
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")
+
+
+<div class="modal-content" id="modalWindowAditional">
+    @using (Ajax.BeginForm("AddAddress", "User", new AjaxOptions { }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <div class="modal-header">
+                <h3>New Person</h3>
+            </div>
+            <div class="modal-body">
+                @Html.HiddenFor(model => model.Id)
+                @Html.HiddenFor(element => element.FirstName)
+                @Html.HiddenFor(element => element.LastName)
+                @Html.HiddenFor(element => element.Age)
+                @for (int i = 0; i < Model.PhoneNumbers.Count; i++)
+                {
+                    @Html.HiddenFor(element => element.PhoneNumbers[i].PhoneNumber)
+                    @Html.HiddenFor(element => element.PhoneNumbers[i].PhoneNumberType)
+                    @Html.HiddenFor(element => element.PhoneNumbers[i].Id)
+                }
+                @for (int i = 0; i < Model.Address.Count-1; i++)
+                {
+                    @Html.HiddenFor(element => element.Address[i].Id)
+                    @Html.HiddenFor(element => element.Address[i].BuildingNumber)
+                    @Html.HiddenFor(element => element.Address[i].FlatNumber)
+                    @Html.HiddenFor(element => element.Address[i].Street)
+                    @Html.HiddenFor(element => element.Address[i].Street.ID)
+                    @Html.HiddenFor(element => element.Address[i].Street.Name)
+                    @Html.HiddenFor(element => element.Address[i].Street.City)
+                    @Html.HiddenFor(element => element.Address[i].Street.City.ID)
+                    @Html.HiddenFor(element => element.Address[i].Street.City.Name)
+                    @Html.HiddenFor(element => element.Address[i].Street.City.Country)
+                    @Html.HiddenFor(element => element.Address[i].Street.City.Country.ID)
+                    @Html.HiddenFor(element => element.Address[i].Street.City.Country.Name)
+                }
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[Model.Address.Count-1].Street.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[Model.Address.Count - 1].Street.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[Model.Address.Count - 1].Street.Name, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[Model.Address.Count - 1].BuildingNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[Model.Address.Count - 1].BuildingNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[Model.Address.Count - 1].BuildingNumber, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[Model.Address.Count - 1].FlatNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[Model.Address.Count - 1].FlatNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[Model.Address.Count - 1].FlatNumber, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[Model.Address.Count - 1].Street.City.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[Model.Address.Count - 1].Street.City.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[Model.Address.Count - 1].Street.City.Name, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[Model.Address.Count - 1].Street.City.Country.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[Model.Address.Count - 1].Street.City.Country.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[Model.Address.Count - 1].Street.City.Country.Name, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="modal-footer">
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <br />
+                        <input id="submitButton" type="submit" value="Add Adress" class="btn btn-success center-block" />
+                        <div>
+                            @Html.ActionLink("Back to List", "People")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/Functions.js")
+}

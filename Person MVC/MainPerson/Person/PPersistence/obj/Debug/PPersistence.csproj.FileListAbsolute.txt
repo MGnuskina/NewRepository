@@ -1,0 +1,444 @@
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Cassandra.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\CassandraSharp.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\cqlplus.exe
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\LZ4.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Reactive.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\yesmarket.NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Cassandra.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\CassandraSharp.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\cqlplus.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\NHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Castle.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Net.Graph.Neo4JD.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Castle.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Net.Http.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentNHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentNHibernate.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PPersistence\bin\Debug\FluentNHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Cassandra.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\CassandraSharp.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Castle.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\cqlplus.exe
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentNHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\LZ4.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Net.Graph.Neo4JD.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Reactive.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\yesmarket.NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Cassandra.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\CassandraSharp.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Castle.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\cqlplus.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentNHibernate.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\FluentNHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\NHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Net.Http.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\obj\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Cassandra.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\CassandraSharp.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Castle.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\cqlplus.exe
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentNHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\LZ4.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.Extension.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Net.Graph.Neo4JD.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\StackExchange.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Reactive.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\yesmarket.NHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Cassandra.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\CassandraSharp.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Castle.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\cqlplus.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentNHibernate.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\FluentNHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\NHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\StackExchange.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Net.Http.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PPersistence\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PPersistence.dll.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Cassandra.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\CassandraSharp.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Castle.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\cqlplus.exe
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentNHibernate.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\LZ4.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Net.Graph.Neo4JD.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\NHibernate.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PDomain.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Quintsys.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Quintsys.System.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Reactive.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\yesmarket.NHibernate.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Cassandra.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\CassandraSharp.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Castle.Core.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\cqlplus.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentNHibernate.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\FluentNHibernate.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Neo4jClient.Extension.Attributes.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\NHibernate.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\StackExchange.Redis.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Net.Http.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\obj\Debug\PPersistence.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\obj\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PPersistence\obj\Debug\PPersistence.pdb

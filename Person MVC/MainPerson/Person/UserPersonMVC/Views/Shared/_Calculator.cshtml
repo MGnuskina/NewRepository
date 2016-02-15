@@ -1,0 +1,40 @@
+﻿<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+@Scripts.Render("~/Scripts/ClockFunctions.js")
+@Styles.Render("~/Content/css")
+@Styles.Render("~/Content/LayoutAdditionalStyles.css")
+@Scripts.Render("~/bundles/modernizr")
+@Scripts.Render("~/Scripts/Functions.js")
+@Scripts.Render("~/Scripts/jquery-2.2.0.min.js")
+@Scripts.Render("~/Scripts/jquery-ui-1.11.4.min.js")
+@Scripts.Render("~/Scripts/jquery.unobtrusive-ajax.min.js")
+@Scripts.Render("~/Scripts/bootstrap.min.js")
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+<form id="forma" action="" method="POST" style="border:dashed; border-color:brown; width:290px">
+    <br/>
+    <div class="col-lg-offset-1">
+        <div class="calcLabel">
+            x:<input class="text-right calcLabel" id="x" type="text" name="x" />
+        </div>
+        <br/>
+        <select  class="col-lg-offset-5" id="operator" name="operator">
+            <option value='+'>+</option>
+            <option value='-'>-</option>
+            <option value='*'>*</option>
+            <option value='/'>/</option>
+        </select>
+        <div class="calcLabel">
+            y:<input class="text-right calcLabel" id="y" type="text" name="y" />
+        </div>
+        <div class="calcLabel">
+            res:<input class="text-right calcLabel" id="res" type="text" name="result" />
+        </div>
+        <br/>
+        <div >
+            <input id="calc" type="button" value="Calculate" class="btn btn-group col-md-offset-3 " style="align-items:center" onclick="Calculate()" />
+        </div>
+        <br />
+    </div>
+</form>
+

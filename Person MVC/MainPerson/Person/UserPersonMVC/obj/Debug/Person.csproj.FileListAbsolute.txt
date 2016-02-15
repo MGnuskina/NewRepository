@@ -1,0 +1,240 @@
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\csc.exe
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\vbc.exe
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\UserPersonMVC.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\UserPersonMVC.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\UserPersonMVC.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Antlr3.Runtime.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Optimization.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\WebGrease.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Optimization.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\bin\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\csc.exe
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\vbc.exe
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\UserPersonMVC.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\UserPersonMVC.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\UserPersonMVC.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Antlr3.Runtime.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Owin.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Optimization.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\WebGrease.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Optimization.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\bin\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.InitialCreate.resources
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.V.resources
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\UserPersonMVC.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\UserPersonMVC\obj\Debug\UserPersonMVC.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.InitialCreate.resources
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.String.resources
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\csc.exe
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\vbc.exe
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\UserPersonMVC.dll.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\UserPersonMVC.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\UserPersonMVC.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Antlr3.Runtime.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Newtonsoft.Json.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Owin.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PersonCL.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Helpers.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Mvc.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Optimization.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\WebGrease.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PDomain.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\AutoMapper.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PersonCL.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PPersistence.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Newtonsoft.Json.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Helpers.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Mvc.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Optimization.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\PDomain.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\bin\AutoMapper.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.InitialCreate.resources
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.Migrations.String.resources
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\UserPersonMVC\obj\Debug\UserPersonMVC.pdb

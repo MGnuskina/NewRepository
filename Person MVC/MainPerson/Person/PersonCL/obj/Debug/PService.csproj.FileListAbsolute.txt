@@ -1,0 +1,290 @@
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Marusya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\Person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Cassandra.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\LZ4.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Cassandra.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Text.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\ServiceStack.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Neo4jClient.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Neo4jClient.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Neo4jClient.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\FluentNHibernate.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\FluentNHibernate.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\FluentNHibernate.xml
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\MongoPerson\Person\PersonCL\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.pdb
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\obj\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.pdb
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Dropbox\Person MVC\to try at home\person\PersonCL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Dropbox\Person MVC\MainPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PersonCL.dll.config
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PersonCL.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PersonCL.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\AutoMapper.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\EntityFramework.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Iesi.Collections.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MyAutoMapping.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PDomain.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PPersistence.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PDomain.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PPersistence.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\AutoMapper.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\EntityFramework.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Iesi.Collections.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\MyAutoMapping.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.Core.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\PubComp.NoSql.MongoDbDriver.pdb
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\obj\Debug\PService.csprojResolveAssemblyReference.cache
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\obj\Debug\PersonCL.dll
+C:\Users\Mariya\Documents\GitHub\Tasks\Person MVC\DictionaryPerson\Person\PersonCL\obj\Debug\PersonCL.pdb

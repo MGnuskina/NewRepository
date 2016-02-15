@@ -1,0 +1,128 @@
+﻿@model PService.PersonViewModel
+
+<div class="modal-content" id="modalWindow">
+
+    @using (Ajax.BeginForm("AddPerson", "User", new AjaxOptions { }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <div class="modal-header">
+                <h3>New Person</h3>
+            </div>
+            <div class="modal-body">
+                @Html.HiddenFor(model => model.UserID)
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Age, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Age, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Age, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PhoneNumbers, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PhoneNumbers[0].PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.PhoneNumbers[0].PhoneNumber, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PhoneNumbers[0].PhoneNumberType, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.PhoneNumbers[0].PhoneNumberType, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <input type="button" value="Add Address" class="btn btn-default" id="addAddress" onclick="AddAddress(@Model.Id, @Model.FirstName, @Model.LastName, @Model.Age)" />
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[0].Street.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @*@Html.EditorFor(model => model.Address[0].Street.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[0].Street.Name, "", new { @class = "text-danger" })*@
+                      //  @Html.DropDownListFor(model => model.Address[0].Street.Name, @ViewBag.StreetName as SelectList,"Select Street")
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[0].BuildingNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[0].BuildingNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[0].BuildingNumber, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[0].FlatNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @Html.EditorFor(model => model.Address[0].FlatNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[0].FlatNumber, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[0].Street.City.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @*@Html.EditorFor(model => model.Address[0].Street.City.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[0].Street.City.Name, "", new { @class = "text-danger" })*@
+                      //  @Html.DropDownListFor(model => model.Address[0].Street.City.Name, @ViewBag.CityName as SelectList, "Select City")
+                    </div>
+                    <div class="col-md-10">
+                        @Html.LabelFor(model => model.Address[0].Street.City.Country.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <br />
+                        @*@Html.EditorFor(model => model.Address[0].Street.City.Country.Name, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Address[0].Street.City.Country.Name, "", new { @class = "text-danger" })*@
+                       // @Html.DropDownListFor(model => model.Address[0].Street.City.Country.Name, @ViewBag.CountryName as SelectList, "Select Country")
+                    </div>
+                </div>
+
+                <div id="phoneNumber">
+                    @*<div class='form-group form-inline'>
+                        <div class="col-md-10">
+                            Phone Number
+                            <input class='form-control' type="text" name="PhoneNumber" pattern="^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$" />
+                        </div>
+                        <div class="col-md-10">
+                            Phone Type
+                            <input class='form-control' type="tel" name="PhoneType" />
+                        </div>
+                    </div>*@
+                </div>
+
+                <div>
+                    <input type="button" value="Add Phone Number" class="btn-info" onclick="return addField()" />
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <br />
+                        <input id="submitButton" type="submit" value="Create" class="btn btn-success center-block" />
+                        <div>
+                            @Html.ActionLink("Back to List", "People")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/Scripts/Functions.js")
+}

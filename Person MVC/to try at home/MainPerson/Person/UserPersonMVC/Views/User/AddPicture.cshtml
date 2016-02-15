@@ -1,0 +1,39 @@
+﻿@model PService.UserViewModel
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")
+
+<div class="modal-content" id="modalWindowAditional">
+    @using (Ajax.BeginForm("AddPicture", "User", new AjaxOptions { }, new { enctype = "multipart/form-data" }))//FormMethod.Post, new { enctype = "multipart/form-data" }
+    {
+        @Html.ValidationSummary(true)
+        <div class="modal-body">
+            <fieldset>
+                <legend>Добавить изображение</legend>
+
+                <div class="editor-label">Name</div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.pictureName)
+                    @Html.ValidationMessageFor(model => model.pictureName)
+                </div>
+
+                <div class="editor-label">Picture File</div>
+                <div class="editor-field">
+                    <input type="file" name="uploadImage" />
+                </div>
+
+                <p>
+                    <input type="submit" value="Add" />
+                </p>
+            </fieldset>
+
+            <div>
+                @Html.ActionLink("Back", "Index")
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/Functions.js")
+}

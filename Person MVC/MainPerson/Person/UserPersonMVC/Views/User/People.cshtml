@@ -1,0 +1,90 @@
+﻿@model PService.UserViewModel
+@{
+    ViewBag.Title = "People";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")
+
+@using (Html.BeginForm("People", "User", FormMethod.Post))
+{
+    <div id="modelDialog" class="modal fade" role="dialog">
+        <div id="dialogContent" class="modal-dialog">
+
+        </div>
+    </div>
+
+    <h2>People</h2>
+
+    @Html.AntiForgeryToken()
+
+    <h4>People</h4>
+    @Html.HiddenFor(model => model.ID)
+    @Html.HiddenFor(model => model.LogInName, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.HiddenFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.HiddenFor(model => model.LastName)
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(el => el.people[0].FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(el => el.people[0].LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(el => el.people[0].Age)
+                </th>
+                <th>
+                    <input class="btn btn-primary center-block" type="button" value="Add Person" id="addPerson" onclick="AddPerson()" />
+                </th>
+            </tr>
+            @for (int i = 0; i < Model.people.Count; i++)
+                {
+                <tr>
+                    <td id="column">
+                        @Html.HiddenFor(element => element.people[i].Id)
+                        @Html.EditorFor(element => element.people[i].FirstName)
+                        @Html.ValidationMessageFor(element => element.people[i].FirstName, "", new { @class = "text-danger" })
+                    </td>
+                    <td id="column">
+                        @Html.EditorFor(element => element.people[i].LastName)
+                        @Html.ValidationMessageFor(element => element.people[i].LastName, "", new { @class = "text-danger" })
+                    </td>
+                    <td id="column">
+                        @Html.EditorFor(element => element.people[i].Age)
+                        @Html.ValidationMessageFor(element => element.people[i].Age, "", new { @class = "text-danger" })
+                    </td>
+
+                    <td width="55px">
+                        <input class="btn btn-warning center-block" type="button" value="Edit" id="editPerson" onclick="EditPerson(@Model.people[i].Id)" />
+                        @Html.ActionLink("Details ", "Details", new { personID = Model.people[i].Id })
+                        <input class="btn btn-danger center-block" type="button" value="Delete" id="deletePerson" onclick="DeletePerson(@Model.people[i].Id)" />
+                        <input class="btn btn-danger center-block" type="button" value="Add Addr" id="addAddress" onclick="AddAddress(@Model.people[i].Id)" />
+                        <input class="btn btn-danger center-block" type="button" value="Add PN" id="addPhoneNumber" onclick="AddPhoneNumber(@Model.people[i].Id)" />
+                    </td>
+                </tr>
+            }
+        </table>
+        <div class="form-group">
+            <div class="col-md-offset-6">
+                <input type="submit" value="Save" class="btn btn-success btn-lg" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "People")
+</div>
+
+@section Scripts {
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+    @Scripts.Render("~/Scripts/Map.js")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/Functions.js")
+    @Scripts.Render("~/Scripts/CitiesCountries.js")
+}

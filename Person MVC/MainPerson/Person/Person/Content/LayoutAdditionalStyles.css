@@ -1,0 +1,39 @@
+﻿.clockStyle {
+    font-size: 56px;
+    color: green;
+    font-weight: 400;
+    text-align: right;
+    border: solid;
+    border-color: greenyellow;
+    background-color:cornsilk;
+    border-radius: 10px 10px;
+}
+
+.clockDotsStyle {
+    font-size: 56px;
+    color: green;
+    font-weight: 500;
+}
+
+.bar{
+    color:lightcyan;
+    font-size:30px;
+}
+
+.calcLabel{
+    width:220px;
+    font-size:16px;
+    line-height:20px;
+}
+
+.th_fixed{
+    position:fixed;
+}
+
+th{
+    width:255px;
+}
+
+#column{
+    width:255px;
+}

@@ -1,0 +1,96 @@
+﻿@model PService.PersonViewModel
+
+<div class="modal-content" id="modalWindow">
+    @using (Ajax.BeginForm("Delete", "User", new AjaxOptions { }))
+    {
+        <h3>Are you sure you want to delete this?</h3>
+        <div>
+            <h4>PersonViewModel</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                @Html.HiddenFor(model => model.UserID)
+                @Html.HiddenFor(model => model.Id)
+                <dt>
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.FirstName)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.LastName)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.LastName)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Age)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Age)
+                </dd>
+
+                <br />
+                @Html.DisplayNameFor(model => model.PhoneNumbers)
+                <br />
+                <div>____________________________________</div>
+                @for (int i = 0; i < Model.PhoneNumbers.Count; i++)
+                {
+                    <dd>
+                        @Html.DisplayFor(model => model.PhoneNumbers[i].PhoneNumber)
+                    </dd>
+                    <dd>
+                        @Html.DisplayFor(model => model.PhoneNumbers[i].PhoneNumberType)
+                    </dd>
+                    <br/>
+                    <div>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </div>
+                }
+
+                <br />
+                @Html.DisplayNameFor(model => model.Address)
+                <br />
+                <div>____________________________________</div>
+                @for (int i = 0; i < Model.Address.Count; i++)
+                {
+                    <dd>
+                        @Html.DisplayNameFor(model => model.Address[i].Street)
+                        <br />
+                        @Html.DisplayFor(model => model.Address[i].Street.Name)
+                    </dd>
+                    <dd>
+                        @Html.DisplayNameFor(model => model.Address[i].BuildingNumber)
+                        <br />
+                        @Html.DisplayFor(model => model.Address[i].BuildingNumber)
+                    </dd>
+                    <dd>
+                        @Html.DisplayNameFor(model => model.Address[i].FlatNumber)
+                        <br />
+                        @Html.DisplayFor(model => model.Address[i].FlatNumber)
+                    </dd>
+                    <dd>
+                        @Html.DisplayNameFor(model => model.Address[i].Street.City)
+                        <br />
+                        @Html.DisplayFor(model => model.Address[i].Street.City.Name)
+                    </dd>
+                    <dd>
+                        @Html.DisplayNameFor(model => model.Address[i].Street.City.Country)
+                        <br />
+                        @Html.DisplayFor(model => model.Address[i].Street.City.Country.Name)
+                    </dd>
+                    <br />
+                    <div>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </div>
+                }
+
+            </dl>
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        </div>
+    }
+</div>
+k

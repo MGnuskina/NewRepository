@@ -1,0 +1,47 @@
+﻿@model PService.PersonViewModel
+
+<div class="modal-content" id="modalWindow">
+    @using (Ajax.BeginForm("Delete", "Persons", new AjaxOptions { }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="modal-header">
+            <h3>Are you sure you want to delete this?</h3>
+        </div>
+        @Html.HiddenFor(model => model.Id)
+        <div class="modal-body">
+            <div class="form-group">
+                @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" }):
+                @Html.Label(Model.FirstName)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" }):
+                @Html.Label(Model.LastName)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Age, htmlAttributes: new { @class = "control-label col-md-2" }):
+                @Html.Label(Model.Age.ToString())
+            </div>
+
+            @Html.Label("Phone Numbers:")
+            <div class="form-group">
+                @foreach (var item in Model.PhoneNumbers)
+                {
+                    <div>---------------------------</div>
+                    <div class="container">
+                        @Html.Label(item.PhoneNumber)
+                        <br />
+                        @Html.Label(item.PhoneNumberType)
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="modal-footer">
+            <div class="form-actions no-color">
+                <input type="submit" id="submitButton" value="Delete" class="btn-danger center-block" />
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        </div>
+    }
+</div>

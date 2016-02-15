@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - _Valtech</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/LayoutAdditionalStyles.css")
+    @*@Scripts.Render("~/bundles/modernizr")*@
+    @Scripts.Render("~/Scripts/jquery-2.2.0.min.js")
+    @Scripts.Render("~/Scripts/jquery-ui-1.11.4.min.js")
+    @Scripts.Render("~/Scripts/jquery.unobtrusive-ajax.min.js")
+    @*@Scripts.Render("~/Scripts/bootstrap.min.js")*@
+    @Scripts.Render("~/Scripts/Functions.js")
+    @Scripts.Render("~/Scripts/ClockFunctions.js")
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+</head>
+<body onload="updateHours(); updateMinutes(); updateSeconds(); setInterval('updateHours(); updateMinutes(); updateSeconds()', 1000)">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("People", "People", "User")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        <div class="col-lg-1 col-md-1">
+        </div>
+        <div class="col-lg-8 col-md-8">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - _Valtech</p>
+            </footer>
+        </div>
+        <div class="col-lg-2 col-md-2">
+            <h2 class="ui-widget-overlay">
+                <span id="clockHours" class="clockStyle">&nbsp;</span><span class="clockDotsStyle">:</span><span id="clockMinutes" class="clockStyle">&nbsp;</span><span class="clockDotsStyle">:</span><span id="clockSeconds" class="clockStyle">&nbsp;</span>
+            </h2>
+            <br />
+            @Html.Partial("~/Views/Shared/_Calculator.cshtml")
+            <br />
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1112.3075658534372!2d35.051823115273756!3d48.46558238745179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe2c2cfa12669%3a0x815664bfd137c89e!2z0llrg9c7lidqk9c70zbqvdc60lgsidesincu0l3rltc_0ydqvtc_0lxrgtga0l7qstgb0yzquiwg0jtqvdgw0l_rgnc-0l_qtdgc0ydqvtcy0yhrjnc60lag0l7qsdc70ldrgdgc0yw!5e0!3m2!1sru!2sua!4v1454065699258" width="290" height="250" frameborder="0" style="border:0" allowfullscreen> </iframe>
+            <br />
+            <div id="minfin-informer-m1Fn-currency">Загружаем <a href="http://minfin.com.ua/currency/" target="_blank">курсы валют</a> от minfin.com.ua</a></div>
+            <script type="text/javascript">var iframe = '<ifra' + 'me width="290" height="120" fram' + 'eborder="0" src="http://informer.minfin.com.ua/gen/course/?color=yellow" vspace="0" scrolling="no" hspace="0" allowtransparency="true"style="width:290px;height:120px;ove' + 'rflow:hidden;"></iframe>'; var cl = 'minfin-informer-m1Fn-currency'; document.getElementById(cl).innerHTML = iframe; </script><noscript><img src="http://informer.minfin.com.ua/gen/img.png" width="1" height="1" alt="minfin.com.ua: курсы валют" title="Курс валют" border="0" /></noscript>
+            <br />
+            <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=lUuOnzDi6qP9ZreudFiTSqRxLdh0HU2t&width=320&height=400&lang=uk_UA&sourceType=constructor"></script>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

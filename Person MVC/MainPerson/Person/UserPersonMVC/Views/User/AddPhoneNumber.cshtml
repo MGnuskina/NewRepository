@@ -1,0 +1,52 @@
+﻿@model PService.PersonViewModel
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")
+
+<div class="modal-content" id="modalWindow">
+    @using (Ajax.BeginForm("AddPhoneNumber", "User", new AjaxOptions { }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <div class="modal-header">
+                <h3>New Phone Number</h3>
+            </div>
+            <div class="modal-body">
+                @Html.HiddenFor(model => model.Id)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PhoneNumbers[0].PhoneNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PhoneNumbers[0].PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.PhoneNumbers[0].PhoneNumber, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PhoneNumbers[0].PhoneNumberType, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.PhoneNumbers[0].PhoneNumberType, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.PhoneNumbers[0].PhoneNumberType, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            <div class="modal-footer">
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <br />
+                        <input id="submitButton" type="submit" value="Add Phone Number" class="btn btn-success center-block" />
+                        <div>
+                            @Html.ActionLink("Back to List", "People")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/Functions.js")
+}

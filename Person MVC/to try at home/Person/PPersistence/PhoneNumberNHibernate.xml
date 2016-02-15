@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+	namespace="NHibernateBasics" assembly="NHibernateBasics">
+  <class name="Employee" table="Employee">
+    <id name="ID" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="PersonID" column="PersonID"  />
+    <property name="PhoneNumber" column="PhoneNumber"  />
+    <property name="PhoneNumberType" column="PhoneNumberType"  />
+  </class>
+</hibernate-mapping>
